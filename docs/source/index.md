@@ -11,7 +11,7 @@ Here is what I think happens when you turn the light on while acquiring an image
 
 ## Eliza
 This is a brain tumor image
-! [the image] (_static/eliza_brain_tumor.png)
+![the image](_static/eliza_brain_tumor.png)
 
 ```{toctree}
 :maxdepth: 2
